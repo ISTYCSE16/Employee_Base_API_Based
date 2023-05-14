@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Employee Base</string>
+    <string name="email">Admin login only</string>
+    <string name="password">Password</string>
+    <string name="title">Employee Base</string>
+    <string name="signin">Sign In</string>
+    <string name="employeeName">Employee Name</string>
+    <string name="position">Position</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="projects">Projects</string>
+</resources>
